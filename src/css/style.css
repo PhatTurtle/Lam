@@ -1,0 +1,67 @@
+/* #d35400
+#e76e22 */
+
+
+.category{
+    background-color: #ef473a;;
+
+    color:white
+    
+}
+footer {
+    background-color: #ef473a;;
+
+    color:white
+}
+.dropend button{
+    width: 100%;
+    text-align: start;
+    
+}
+.dropend:hover{
+    background-color: #ef473a;;
+    color:white
+}
+.card-sp img{
+    width: 60%;
+    scale: .8;
+   
+    
+}
+.more{
+    width: 90%;
+    scale: .8;
+}
+.card:hover img{
+    scale: .9;
+}
+.card:hover h6{
+    color: skyblue;
+}
+.btn-cart button{
+    width: 25%;
+    height: 4rem;
+    background-color: #ef473a;;
+    color: white;
+    border: none;
+    font-size: smaller;
+    display: none;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 40px;
+}
+
+.card:hover button{
+    display: block;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+
+}
+
+.card p {
+    color: #2E64ED;
+}
+.dropdown-menu>li>button:hover{
+    background-color: #ef473a;;
+    color: white;
+}
